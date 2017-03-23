@@ -6,6 +6,22 @@ This repository was created for Cayla and David to practice using github and to 
 ## How to Add Recipes to This Cookbook
 
 ## Recipe Template
-,,,
-code
-,,,
+```
+---
+Layout: Recipe
+Title: "Sweet & Sour Chicken"
+Date: 03-23-2017
+Category: Dinner
+---
+```
+
+*Serves 4*
+
+### Ingredients
+
+***Chicken***
+
+***Sauce***
+
+***Rice***
+```

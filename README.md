@@ -13,7 +13,7 @@ Title: "Sweet & Sour Chicken"
 Date: 03-23-2017
 Category: Dinner
 ---
-```
+
 
 *Serves 4*
 

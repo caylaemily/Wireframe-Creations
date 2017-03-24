@@ -20,8 +20,31 @@ Category: Dinner
 ### Ingredients
 
 ***Chicken***
+- 1lb skinnless, boneless chicken breast
+- salt and pepper
+- 1/2 cup cornstarch
+- 2 eggs; beaten
+- oil to fry
 
 ***Sauce***
+- 1/4 ketchup
+- 3/4 apple cider vinegar
+- 1/2 sugar
+- 1 tbsp soy sauce
+- 1 tbsp oil
+- 1/2 tbsp minced garlic
+- 1 bell pepper; chopped
 
-***Rice***
+***Garnsih***
+- chopped scallions
+- sesame seeds
 ```
+
+### Preparation
+
+***To Fry the Chicken:***
+
+- Cut the chicken into bite size pieces and place them into a bowl.
+- Sprinkle salt and pepper on the chicken; then mix
+-  
+

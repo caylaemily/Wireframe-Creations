@@ -46,5 +46,7 @@ Category: Dinner
 
 - Cut the chicken into bite size pieces and place them into a bowl.
 - Sprinkle salt and pepper on the chicken; then mix
--  
+- Add cornstarch, mix again
+- In a separate bowl, crack eggs and then stir
+
 

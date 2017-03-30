@@ -48,6 +48,13 @@ Category: Dinner
 - Sprinkle salt and pepper on the chicken; then mix
 - Add cornstarch, mix again
 - In a separate bowl, crack eggs and then stir
+- Prepare stove at medium heat and fill bottom of pan with oil (1 cm)
+- take pieces of chicken and dip in the eggs
+- fry the chicken until golden brown, crispy and cooked through
+- set aside
+optional: dab with paper towel if greasy
+
+
 
 ## Sending in Issues
 

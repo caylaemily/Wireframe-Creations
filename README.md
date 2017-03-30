@@ -42,8 +42,6 @@ Category: Dinner
 
 ### Preparation
 
-***To Fry the Chicken:***
-
 - Cut the chicken into bite size pieces and place them into a bowl.
 - Sprinkle salt and pepper on the chicken; then mix
 - Add cornstarch, mix again
@@ -52,7 +50,8 @@ Category: Dinner
 - take pieces of chicken and dip in the eggs
 - fry the chicken until golden brown, crispy and cooked through
 - set aside
-optional: dab with paper towel if greasy
+***optional: dab with paper towel if greasy***
+- in a large pan
 
 
 

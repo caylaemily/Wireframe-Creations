@@ -43,19 +43,22 @@ Category: Dinner
 ### Preparation
 
 - Cut the chicken into bite size pieces and place them into a bowl.
-- Sprinkle salt and pepper on the chicken; then mix
-- Add cornstarch, mix again
-- In a separate bowl, crack eggs and then stir
-- Prepare stove at medium heat and fill bottom of pan with oil (1 cm)
-- take pieces of chicken and dip in the eggs
-- fry the chicken until golden brown, crispy and cooked through
-- set aside
+- Sprinkle salt and pepper on the chicken. Mix.
+- Add cornstarch. Mix again.
+- In a separate bowl, crack eggs and then stir.
+- Prepare stove at medium heat and fill bottom of pan with oil (1 cm).
+- Take pieces of chicken and dip in the eggs.
+- Fry the chicken until golden brown, crispy and cooked through.
+- Set aside.
 
 ***optional: dab with paper towel if greasy***
 
-- in a large pan
-
-
+- In a large pan, heat oil and fry garlic until fragant
+- Add cidar vinegar, ketchuo, sugar, soy sauce, and bellpepper. Bring to a boil.
+- Mix until sauce has thickened. Add chicken.
+- Stir until chicken is coated.
+- Garnish with chopped scallions and seasame seeds. Serve with rice.
+- Enjoy
 
 ## Sending in Issues
 

@@ -49,4 +49,7 @@ Category: Dinner
 - Add cornstarch, mix again
 - In a separate bowl, crack eggs and then stir
 
+## Sending in Issues
+
+## Requesting Recipes for This Cookbook
 

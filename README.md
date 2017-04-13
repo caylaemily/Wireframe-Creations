@@ -7,6 +7,7 @@ This repository was created for Cayla and David to practice using github and to 
 
 ## Recipe Template
 ```
+yeet
 ---
 Layout: Recipe
 Title: "Sweet & Sour Chicken"
